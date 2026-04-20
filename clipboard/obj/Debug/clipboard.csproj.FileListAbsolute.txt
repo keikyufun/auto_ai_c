@@ -1,0 +1,10 @@
+C:\copilot_api\clipboard\obj\Debug\clipboard.csproj.AssemblyReference.cache
+C:\copilot_api\clipboard\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\copilot_api\clipboard\obj\Debug\clipboard.csproj.GenerateResource.cache
+C:\copilot_api\clipboard\obj\Debug\clipboard.csproj.CoreCompileInputs.cache
+C:\copilot_api\clipboard\bin\Debug\clipboard.exe.config
+C:\copilot_api\clipboard\bin\Debug\clipboard.exe
+C:\copilot_api\clipboard\bin\Debug\clipboard.pdb
+C:\copilot_api\clipboard\obj\Debug\clipboard.Properties.Resources.resources
+C:\copilot_api\clipboard\obj\Debug\clipboard.exe
+C:\copilot_api\clipboard\obj\Debug\clipboard.pdb

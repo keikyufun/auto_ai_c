@@ -1,0 +1,10 @@
+C:\copilot_api\argument\bin\Debug\argument.exe.config
+C:\copilot_api\argument\bin\Debug\argument.exe
+C:\copilot_api\argument\bin\Debug\argument.pdb
+C:\copilot_api\argument\obj\Debug\argument.csproj.AssemblyReference.cache
+C:\copilot_api\argument\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\copilot_api\argument\obj\Debug\argument.Properties.Resources.resources
+C:\copilot_api\argument\obj\Debug\argument.csproj.GenerateResource.cache
+C:\copilot_api\argument\obj\Debug\argument.csproj.CoreCompileInputs.cache
+C:\copilot_api\argument\obj\Debug\argument.exe
+C:\copilot_api\argument\obj\Debug\argument.pdb
