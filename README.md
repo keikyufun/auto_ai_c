@@ -1,4 +1,5 @@
 # auto_ai_c
+日本語版READMEは[こちら](https://github.com/keikyufun/auto_ai_c/blob/main/README_ja.md)
 ## Description
 This tool automates Microsoft Copilot.  
 It only works on **Windows (x64)**.  
