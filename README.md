@@ -10,7 +10,7 @@ The following AI service is supported:
 Below is an explanation of Copilot and its terms of use.
 ## About Copilot Terms of Use
 This tool is designed **in full compliance** with the official  
-[Microsoft Copilot Terms of Use](https://www.microsoft.com/ja-jp/microsoft-copilot/for-individuals/termsofuse?msockid=35905b86a50e65332c1f4d57a4966429).
+[Microsoft Copilot Terms of Use](https://www.microsoft.com/en-us/microsoft-copilot/for-individuals/termsofuse).
 
 > Do not use tools or computer programs (such as bots or scrapers) to access Copilot.  
 > Copilot is for personal use only.
