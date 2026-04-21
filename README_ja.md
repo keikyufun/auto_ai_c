@@ -1,6 +1,6 @@
 # auto_ai_c
 ## 説明
-このツールは、様々なcopilotを自動化するツールです。
+このツールは、copilotを自動化するツールです。
 windows(x64)でしか動作しません。
 以下のAIに対応しています。
 - [microsoft copilot](https://copilot.microsoft.com)
