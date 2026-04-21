@@ -53,24 +53,28 @@ microsoft copilot（以下copilot）に関しての説明＆規約です。
 ※Cドライブ直下にファイルを置いたとします。
 ### argument.exe
 プロンプトをcopilotに送信します。
+cmdなら
 ```terminal:comand prompt
 cd C:\
-argument.exe "プロンプト"
+argumen.exe "プロンプト"
 ```
+ubuntuなら
 ```terminal:Ubuntu
-cd C:\
+cd mnt/c
 argument.exe "プロンプト"
 ```
 必ず、Egde内のcopilotタブをアクティブ（開いている状態）にしておいてください。
 copilotからの返答は、.exeとおなじディレクトリに、myfile.txtとして配置されています。
 ### clipboard.exe
 クリップボードの中身をcopilotに送信します。
+cmdなら
 ```terminal:comand prompt
 cd C:\
 clipbpard.exe
 ```
+ubuntuなら
 ```terminal:Ubuntu
-cd C:\
+cd mnt/c
 clipboard.exe
 ```
 必ず、Egde内のcopilotタブをアクティブ（開いている状態）にしておいてください。
